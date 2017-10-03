@@ -1,6 +1,6 @@
 # dd.js
 
-[![Latest Version on NPM](https://img.shields.io/npm/v/dd.js.svg?style=flat-square)](https://npmjs.com/package/dd-js)
+[![Latest Version on NPM](https://img.shields.io/npm/v/dd.js.svg?style=flat-square)](https://npmjs.com/package/dd.js)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 Super simple JavaScript function for console logging, inspired by the Laravel dd() and dump() functions.
