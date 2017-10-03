@@ -1,15 +1,15 @@
 {
-  "name": "dd-js",
-  "version": "0.1.1",
+  "name": "dd.js",
+  "version": "0.1.0",
   "description": "Laravel dd() in JS",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "jsnext:main": "src/index.js",
   "scripts": {
     "lint": "eslint src"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/appstract/dd-js.git"
+    "url": "https://github.com/appstract/dd.js.git"
   },
   "keywords": [
     "appstract"
@@ -17,9 +17,9 @@
   "author": "Appstract",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/appstract/dd-js/issues"
+    "url": "https://github.com/appstract/dd.js/issues"
   },
-  "homepage": "https://github.com/appstract/dd-js",
+  "homepage": "https://github.com/appstract/dd.js",
   "devDependencies": {
     "eslint": "^3.7.1",
     "eslint-config-spatie": "^1.1.0",

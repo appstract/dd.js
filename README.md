@@ -1,6 +1,6 @@
-# dd-js
+# dd.js
 
-[![Latest Version on NPM](https://img.shields.io/npm/v/dd-js.svg?style=flat-square)](https://npmjs.com/package/dd-js)
+[![Latest Version on NPM](https://img.shields.io/npm/v/dd.js.svg?style=flat-square)](https://npmjs.com/package/dd-js)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 Super simple JavaScript function for console logging, inspired by the Laravel dd() and dump() functions.
@@ -10,23 +10,23 @@ Super simple JavaScript function for console logging, inspired by the Laravel dd
 You can install the package via npm or yarn:
 
 ```bash
-$ npm install dd-js
-$ yarn add dd-js
+$ npm install dd.js
+$ yarn add dd.js
 ```
 
 ## Usage
 
 ```js
-require('dd-js');
+require('dd.js');
 
 dump(foo); // This is just a plain console.log
 
-dd(foo); // This will throw an exception after the logging to try to stop further execution
+dd(bar); // This will throw an exception after the logging to try to stop further execution
 ```
 
 ## Contributing
 
-Contributions are welcome, [thanks to y'all](https://github.com/appstract/dd-js/graphs/contributors) :)
+Contributions are welcome, [thanks to y'all](https://github.com/appstract/dd.js/graphs/contributors) :)
 
 ## About Appstract
 
