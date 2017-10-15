@@ -1,5 +1,7 @@
-window.dump = function (data) {
-    console.log(data);
+window.dump = function (...data) {
+    data.forEach(function(element) {
+        console.log(element);
+    });
 };
 
 window.dd = function (...data) {
