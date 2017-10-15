@@ -19,9 +19,9 @@ $ yarn add dd.js
 ```js
 require('dd.js');
 
-dump(foo); // This is just a plain console.log
+dump(foo, bar); // This is just a plain console.log
 
-dd(bar); // This will throw an exception after the logging to try to stop further execution
+dd(foo, bar); // This will throw an exception after the logging to try to stop further execution
 ```
 
 ## Contributing
